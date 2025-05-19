@@ -15,6 +15,7 @@ codes/
 │   │   └──*.txt                        # txt文件保存了各个模型训练时的train loss,train acc,val loss,val acc
 │   ├── best_models/
 │   │   └──*.pth                        # pth文件保存了各个模型权重文件
+│   ├── *.png                           # 图片展示
 │   └── *.ipynb                         # 不同损失，激活函数，优化器，模型的训练以及训练曲线，模型可视化
 ├── VGG_BatchNorm/                      # Part2 相关代码
 │   ├── data/                           # 数据集和加载方法
