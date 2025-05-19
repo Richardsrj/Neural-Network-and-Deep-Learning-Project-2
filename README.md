@@ -33,6 +33,8 @@ codes/
 ├── VGG_Loss_Landscape_Batchnorm.ipynb  # VGG-A-BN的训练以及相关曲线
 └── VGG_Loss_Landscape_dropout.ipynb    # VGG-A-dropout的训练以及相关曲线
 
+其中cifar10/，myclassifier/best_models/，VGG_BatchNorm/grad_path/，VGG_BatchNorm/best_models/文件太大，你可以在https://drive.google.com/drive/folders/1wT_jLHLG8UaLFbdjlCeQzftIUemgcjV7?dmr=1&ec=wgc-drive-hero-goto找到它们
+
 ```
 
 下面的表格是part1的相关结果，其中最优模型是best_model_adamW_bigger ，测试准确率达到了0.9242
